@@ -1,19 +1,29 @@
-# Hello and welcome! 👋
+# 👋 Welcome!
 
-In this repository, I will share some of the most interesting projects I’ve encountered throughout my career.
+This repository showcases some of the most interesting projects I have encountered throughout my career.
 
-### Projects:
+## 🚀 Projects:
 
-- **Calculadora Precios Viviendas** -> This URL links to a web app for predicting housing prices in Madrid, Spain. This is the realization of my Bachelor's thesis, brought to life and made practical. It can serve many purposes, and I believe it's worth taking a look at.
+- 🏡 **Calculadora_Precios_Viviendas** -> This project focuses on building a ML–based application to predict housing prices in Madrid. This work was completed in 2024 as part of my bachelor’s thesis. While some elements may be outdated, it still offers valuable insight into Madrid’s real estate market.
 
-- **Demo App Topstyle NTIC.qvf** -> This Qlik dashboard offers detailed information and data visualizations to gain insights relevant to a fashion company.
+- 🐶 **Clasificacion_Imagenes_Perros** -> This project focuses on building a DL–based application for dog breed classification from images.
 
-- **EasyLoans.twbx** -> This Tableau dashboard offers detailed information and data visualizations to gain insights relevant to a bank's loan operations. 
+- 👗 **Top_Style** -> This Qlik dashboard offers detailed information and data visualizations to gain insights relevant to a fashion company.
 
-- **Practica_1_Data_Mining.ipynb** -> This Jupyter Notebook presents a data analysis and machine learning problem for a telecommunications company, aiming to predict whether a customer will acquire a product or not.
+- 🏛️ **Easy_Loans** -> This Tableau dashboard offers detailed information and data visualizations to gain insights relevant to a bank's loan operations. 
 
-- **Yelp.js** -> This MongoDB file contains queries performed on Yelp data, a collection of reviews on restaurants and other leisure places.
+- 📡 **Compra_Productos_Comunicaciones** -> This Jupyter Notebook presents a data analysis on a a telecommunications company with an AI approach, where we aim to predict whether a customer will acquire a product or not.
 
-### Connect with me:
+- ⭐ **Yelp** -> This Non-SQL MongoDB file contains queries performed on Yelp data, a collection of reviews on restaurants and others.
 
-If you'd like to connect professionally or learn more about my work, feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/andrés-rubio-lafuente-2b2248265/).
+## 🔗 URLs:
+
+- 🏡 [Housing Prices App](https://rbooantt.github.io/).
+
+- 🐶 [Dog Breed App](https://rbooantt.github.io/dist/).
+
+
+## 🤝 Connect with me:
+
+If you woukd like to connect professionally or learn more about my work, feel free to check out my [LinkedIn](https://www.linkedin.com/in/andrés-rubio-lafuente-2b2248265/).
+
