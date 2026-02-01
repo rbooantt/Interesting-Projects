@@ -8,13 +8,13 @@ This repository showcases some of the most interesting projects I have encounter
 
 - 🐶 **Clasificacion_Imagenes_Perros** -> This project focuses on building a **Deep Learning** application for dog breed classification from images.
 
-- 👗 **Top_Style** -> This **Qlik** dashboard offers detailed information and data visualizations to gain insights relevant to a fashion company.
+- 📡 **Compra_Productos_Comunicaciones** -> This project presents a **data analysis** on a a telecommunications company where we aim to predict whether a customer will acquire a product or not.
 
 - 🏛️ **Easy_Loans** -> This **Tableau** dashboard offers detailed information and data visualizations to gain insights relevant to a bank's loan operations. 
 
 - 🎬 **Recomendador_Peliculas** -> This project is a movie recommender based on the **KNN algorithm**. 
 
-- 📡 **Compra_Productos_Comunicaciones** -> This project presents a **data analysis** on a a telecommunications company where we aim to predict whether a customer will acquire a product or not.
+- 👗 **Top_Style** -> This **Qlik** dashboard offers detailed information and data visualizations to gain insights relevant to a fashion company.
 
 - ⭐ **Yelp** -> This **MongoDB** file contains queries performed on Yelp data, a collection of reviews on restaurants and others.
 
